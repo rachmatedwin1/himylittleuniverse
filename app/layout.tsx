@@ -18,7 +18,7 @@ const playfair = Playfair_Display({
 });
 
 export const metadata: Metadata = {
-  title: "Happy Valentine Mai Little One",
+  title: "For Mai Little One ❤️",
   description: "A special Valentine's gift for MAI ❤️",
 };
 
