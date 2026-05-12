@@ -8,21 +8,21 @@ export default function Home() {
   const [showGallery, setShowGallery] = useState(false);
 
   const userImages = [
-    '/1.jpeg',
-    '/2.jpeg',
-    '/3.jpeg',
-    '/4.jpeg',
-    '/5.jpeg',
-    '/6.jpeg',
-    '/7.jpeg',
-    '/8.jpeg',
-    '/9.jpeg',
-    '/10.jpeg',
-    '/11.jpeg',
-    '/12.jpeg',
-    '/13.jpeg',
-    '/14.jpeg',
-    '/15.jpeg',
+    '/mai2.png',
+    '/mai3.png',
+    '/mai4.png',
+    '/mai5.png',
+    '/mai6.png',
+    '/mai7.png',
+    '/mai8.png',
+    '/mai9.png',
+    '/mai10.png',
+    '/mai11.png',
+    '/mai12.png',
+    '/mai13.png',
+    '/mai14.png',
+    '/mai15.png',
+    '/IMG_7298.png',
   ];
 
   return (
